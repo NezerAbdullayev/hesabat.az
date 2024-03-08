@@ -34,7 +34,7 @@ h1 {
     margin-left: 35px;
 }
 
-/* bu altdaki prs sirket iscilerinin sekili ucundur */
+
 .prs {
     display: block;
     background-position: center center;
@@ -147,7 +147,7 @@ h1 {
     max-width: 710px;
 }
 
-/*! section 2 --> yeni ilk section tegi  */
+/*! section 2   */
 .sctn-2 {
     background-color: #f5f7f9;
     width: 100vw;
